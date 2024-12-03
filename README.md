@@ -27,7 +27,7 @@ The goal of this project is to provide a comprehensive visualization of PhonePe'
 - Certain regions contribute significantly to the total transaction value.
 - Consistent growth in user adoption over recent months.
 
-## 🛠️ **Technologies Used**
+## **Technologies Used**
 - **Power BI**: For data visualization and dashboard creation.
 - **Data Analysis**: Performed using Power BI's built-in functionalities.
 
