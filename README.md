@@ -13,16 +13,16 @@ The goal of this project is to provide a comprehensive visualization of PhonePe'
 - **Regional Insights**: Highlights transaction patterns across different regions.
 - **Customizable**: Easily modify filters to suit specific analysis needs.
 
-## 📁 **File Details**
+## **File Details**
 - **PhonePe.pbix**: The Power BI file containing the dashboard. Open it using Power BI Desktop to explore the visualizations.
 
-## 🚀 **How to Use**
+## **How to Use**
 1. Clone or download this repository to your local machine.
 2. Open the `PhonePe.pbix` file in Power BI Desktop.
 3. Interact with the visualizations to explore the data insights.
 4. Modify the filters or visualizations as per your analytical requirements.
 
-## 📊 **Insights from the Dashboard**
+## **Insights from the Dashboard**
 - Monthly trends in transactions reveal peaks during festive seasons.
 - Certain regions contribute significantly to the total transaction value.
 - Consistent growth in user adoption over recent months.
@@ -31,12 +31,12 @@ The goal of this project is to provide a comprehensive visualization of PhonePe'
 - **Power BI**: For data visualization and dashboard creation.
 - **Data Analysis**: Performed using Power BI's built-in functionalities.
 
-## 📝 **Future Scope**
+## **Future Scope**
 - Integration with real-time data sources for live updates.
 - Adding predictive analytics to forecast future trends.
 - Expanding regional analysis to a granular level.
 
-## 🤝 **Contributing**
+## **Contributing**
 Contributions are welcome! If you'd like to contribute:
 1. Fork this repository.
 2. Create a new branch (`git checkout -b feature-branch`).
@@ -44,7 +44,7 @@ Contributions are welcome! If you'd like to contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
    
-## 📧 **Contact**
+## **Contact**
 For questions or suggestions, feel free to reach out:
 - **Name**: Faizan Kaushar
 - **Email**: faizankaushar2@gmail.com
